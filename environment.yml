@@ -1,0 +1,24 @@
+# conda env create -f environment.yml
+# conda activate mitolysosome-4d
+name: mitolysosome-4d
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-image
+  - tifffile
+  - imagecodecs      # TIFF compression codecs used by the microscope output
+  - roifile          # reads ImageJ ROI sets (.zip)
+  - tqdm
+  - jupyterlab
+  - ipywidgets       # tqdm.notebook progress bars
+  - napari           # 3D/4D viewer
+  - pyqt             # Qt backend for napari
+  - pip
+  - pip:
+      - stracking    # detection, linking and track features (not on conda-forge)
