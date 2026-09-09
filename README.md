@@ -1,8 +1,6 @@
 # Mitolysosome 4D analyses
 
-Scripts used for the 4D (3D + time) mitolysosome analyses in *[manuscript title,
-authors, journal, year — fill in]*.
-
+Scripts used for the 4D (3D + time) mitolysosome analyses.
 Cells expressing a mitochondrial marker (green) and a mitophagy reporter (red)
 were imaged as volumes over time on a lattice light-sheet microscope. The two
 notebooks here take the processed acquisitions and produce the per-cell
@@ -120,4 +118,4 @@ comparing each condition against `PGE2-activator`.
 
 ## Citation
 
-If you use this code, please cite *[manuscript reference — fill in]*.
+If you use this code, please cite The COX2-PGE2-PKA Axis Suppresses Antiviral Immunity by Inhibiting mtDNA-Dependent STING Activation, Cell Reports, 2026.
