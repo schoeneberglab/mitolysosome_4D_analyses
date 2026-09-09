@@ -118,4 +118,5 @@ comparing each condition against `PGE2-activator`.
 
 ## Citation
 
-If you use this code, please cite The COX2-PGE2-PKA Axis Suppresses Antiviral Immunity by Inhibiting mtDNA-Dependent STING Activation, Cell Reports, 2026.
+If you find this code useful, please cite:
+The COX2-PGE2-PKA Axis Suppresses Antiviral Immunity by Inhibiting mtDNA-Dependent STING Activation. Cell Reports, 2026.
